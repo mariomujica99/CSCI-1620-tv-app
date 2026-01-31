@@ -60,7 +60,3 @@ This project demonstrates:
 ## Academic Integrity Notice
 
 This project is submitted as academic work for CSCI 1620. Please do not copy or reproduce for academic submissions.
-
----
-
-*Created with Python 3.12 and PyQt6*
