@@ -1,4 +1,4 @@
-# Television TV Remote Control App - PyQt6 GUI Application
+# Television Remote Control App - PyQt6 GUI Application
 
 ## Overview
 
@@ -6,25 +6,25 @@ This is a television remote control simulator built with Python and PyQt6. This 
 
 ## Features
 
-### Power Control
+Power Control
 - Turn TV on/off with power button
 - Screen displays appropriate state (black when off, welcome screen when on)
 - All controls disabled when TV is off
 
-### Channel Management
+Channel Management
 - 10 Available Channels (0-9)
 - Direct channel selection via number buttons (0-9)
 - Channel up/down buttons with wraparound functionality
 - Visual channel indicator showing current selection
 
-### Volume Control
+Volume Control
 - Volume range: 0-10
 - Volume up and down buttons
 - Visual slider showing current volume level
 - Numeric volume display
 - Mute/unmute functionality with volume memory
 
-### Channel Lineup
+Channel Lineup
 
 | Channel | Network |
 |---------|---------|
@@ -41,22 +41,21 @@ This is a television remote control simulator built with Python and PyQt6. This 
 
 ## Technologies Used
 
-- **Python**
-- **PyQt6** - GUI framework
-- **Qt Designer** - Visual UI design tool
-- **QtGui** - Image handling for channel logos
+- Python
+- PyQt6
+- Qt Designer
+- QtGui
 
-## Learning Objectives
+## Learning Outcomes
 
-This project demonstrates:
-- **Object-Oriented Programming**: Classes, encapsulation, inheritance
-- **GUI Development**: Event handling, widget manipulation, layouts
-- **State Management**: Tracking and updating application state
-- **Image Handling**: Loading and displaying images dynamically
-- **User Experience Design**: Intuitive interface, visual feedback
-- **Code Organization**: Separation of concerns, modularity
-- **Boundary Conditions**: Handling min/max values, wraparound logic
+- Object-Oriented Programming: Classes, encapsulation, inheritance
+- GUI Development: Event handling, widget manipulation, layouts
+- State Management: Tracking and updating application state
+- Image Handling: Loading and displaying images dynamically
+- User Experience Design: Intuitive interface, visual feedback
+- Code Organization: Separation of concerns, modularity
+- Boundary Conditions: Handling min/max values, wraparound logic
 
 ## Academic Integrity Notice
 
-This project is submitted as academic work for CSCI 1620. Please do not copy or reproduce for academic submissions.
+This project is submitted as academic work for CSCI 1620: Computer Science II. The code is provided for portfolio purposes. Please do not copy or reproduce for academic submissions.
